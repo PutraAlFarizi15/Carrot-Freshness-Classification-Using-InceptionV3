@@ -1,0 +1,2 @@
+fresh 620 file: Training=496 , Validation=124
+rotten 580 file: training=464, Validation=116
